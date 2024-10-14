@@ -1,4 +1,4 @@
-import apikey from "./api-Key";
+import { apikey } from "../../src/api-Key";
 
 const apiConfig = {
   baseUrl: "https://api.themoviedb.org/3/",
